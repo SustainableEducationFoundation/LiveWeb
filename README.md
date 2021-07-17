@@ -37,6 +37,11 @@ This repository contains source for Sustainable Education Foundation Website. [V
 
 Read: [Development Best Practices at SEF](CONTRIBUTING.md)
 
+## Prerequisites
+* Node.js
+* npm 
+
+
 ## Run Locally
 
 - Clone your forked repository
@@ -44,9 +49,11 @@ Read: [Development Best Practices at SEF](CONTRIBUTING.md)
     git clone https://github.com/USERNAME/sef-site
     cd sef-site
     ```
-- Install all the dependencies
+
+- Install all the dependencies 
+  
     ```
-    npm install
+    npm install 
     ```
 - Start the server with 
     ```
